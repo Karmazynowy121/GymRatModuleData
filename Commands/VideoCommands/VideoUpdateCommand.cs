@@ -1,6 +1,4 @@
-﻿using GymRatApi.Entieties;
-
-namespace GymRatApi.Commands.VideoCommands
+﻿namespace GymRatApi.Commands.VideoCommands
 {
     public class VideoUpdateCommand
     {

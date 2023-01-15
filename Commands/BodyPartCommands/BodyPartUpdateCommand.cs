@@ -1,6 +1,4 @@
-﻿using GymRatApi.Entieties;
-
-namespace GymRatApi.Commands.BodyPartCommands
+﻿namespace GymRatApi.Commands.BodyPartCommands
 {
     public class BodyPartUpdateCommand
     {

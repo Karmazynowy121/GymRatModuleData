@@ -1,5 +1,4 @@
-﻿using GymRatApi.Entieties;
-
+﻿
 namespace GymRatApi.Commands.SportCommands
 {
     public class SportUpdateCommand

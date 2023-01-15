@@ -1,6 +1,4 @@
-﻿using GymRatApi.Entieties;
-
-namespace GymRatApi.Commands.TrainingPartCommands
+﻿namespace GymRatApi.Commands.TrainingPartCommands
 {
     public class TrainingPartUpdateCommand
     {

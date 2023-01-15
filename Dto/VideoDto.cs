@@ -1,4 +1,4 @@
-﻿using GymRatApi.Entieties;
+﻿
 
 namespace GymRatApi.Dto
 {

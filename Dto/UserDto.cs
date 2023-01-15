@@ -1,4 +1,4 @@
-﻿using GymRatApi.Entieties;
+﻿
 
 namespace GymRatApi.Dto
 {
@@ -11,6 +11,6 @@ namespace GymRatApi.Dto
         public DateTime CreateAt { get; set; }
         public DateTime UpdateAt { get; set; }
         public DateTime LastLogin { get; set; }
-        public List<UserTrainingScheulde> TrainingScheuldes { get; set; }
+        public List<UserTrainingScheuldeDto> TrainingScheuldes { get; set; }
     }
 }
