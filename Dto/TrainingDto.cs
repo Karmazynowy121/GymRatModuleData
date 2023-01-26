@@ -8,7 +8,7 @@ namespace GymRatApi.Dto
         public int Interval { get; set; }
         public int TrainingDuration { get; set; } = 0;
         public int TrainingScheuldeId { get; set; }
-        public TrainingPartDto TrainingPart { get; set; }
+        public List<TrainingPartDto> TrainingPart { get; set; }
 
     }
 }
